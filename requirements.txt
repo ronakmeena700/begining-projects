@@ -1,7 +1,0 @@
-This is car ride prediction app
-distance
-cab_type
-Destination 
-source
-surge_multiplier
-name
